@@ -5,3 +5,5 @@
 *.db
 *.rar
 sqlitestudio
+*.exe
+*.dll
